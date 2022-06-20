@@ -1,2 +1,2 @@
 # HTB_Notes
-some of my hacjthebox notes
+some of my hackthebox notes
